@@ -14,7 +14,7 @@ yarn add @gilluan/ngx-figma
 Ensure you import the module and the dependencies:
 
 ```js
-import { NgxFigmaModule }
+import { NgxFigmaModule } from '@gilluan/ngx-figma';
 
 @NgModule({
    imports: [
